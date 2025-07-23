@@ -72,25 +72,6 @@ The table below summarizes the model's performance:
 
 [cite_start]A confusion matrix visually represented through a heatmap offers a clear depiction of the object detection rate [cite: 249, 251, 252][cite_start], aiding in the nuanced evaluation of the model's strengths and areas for improvement[cite: 252]. [cite_start]Examples of detected objects with their accuracy values are presented to showcase the model's versatility[cite: 253, 254]. [cite_start]The model's robustness was also tested on drone video data, with results displayed in Figure 6[cite: 255, 263].
 
-## Getting Started
-
-*(This section would typically include instructions on how to set up the project, install dependencies, and run the code. Since the full code is not provided, this section is a placeholder.)*
-
-To get a local copy up and running, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://your-repository-link.git](https://your-repository-link.git)
-    ```
-2.  **Install dependencies:**
-    *(List of dependencies and installation commands, e.g., pip install -r requirements.txt)*
-3.  **Prepare the dataset:**
-    *(Instructions on how to structure the dataset, assuming it's a private dataset from Port of Antwerp Bruges)*
-4.  **Train the model:**
-    *(Commands to start training)*
-5.  **Run inference:**
-    *(Commands to run detection on new images/videos)*
-
 ## Future Work
 
 Future efforts will focus on:
@@ -115,7 +96,7 @@ pages={CEUR-WS.org/Vol-3923/Paper\_1.pdf},
 year={2024}
 }
 
-```
+
 
 ## License
 
@@ -131,4 +112,4 @@ year={2024}
 * Alessandro Bruno
 * Pier Luigi Mazzeo
 
-```
+
