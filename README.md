@@ -1,4 +1,4 @@
-````markdown
+
 # Deep Learning Framework for Real-time Oil Spill Detection and Classification
 
 This repository contains the implementation of a novel deep learning framework for real-time oil spill detection and classification, leveraging the YOLOv8 architecture and advanced computer vision techniques. The research aims to enhance environmental monitoring and disaster response by providing an efficient and accurate method for identifying various types of oil spills in both image and video data.
@@ -105,7 +105,6 @@ Future efforts will focus on:
 
 If you find this research helpful, please consider citing our paper:
 
-````
 
 @inproceedings{patel2024deep,
 title={A Deep Learning Framework for Real-time Oil Spill Detection and Classification},
