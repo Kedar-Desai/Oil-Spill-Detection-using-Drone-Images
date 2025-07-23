@@ -85,14 +85,7 @@ Future efforts will focus on:
 
 If you find this research helpful, please consider citing our paper:
 
-@inproceedings{patel2024deep,
-title={A Deep Learning Framework for Real-time Oil Spill Detection and Classification},
-author={Patel, Pranshu and Desai, Kedar and Jain, Rinkal and Bhatt, Chintan and Vanlanduit, Steve and Bruno, Alessandro and Mazzeo, Pier Luigi},
-booktitle={CEUR Workshop Proceedings},
-volume={3923},
-pages={CEUR-WS.org/Vol-3923/Paper_1.pdf},
-year={2024}
-}
+**Kedar Desai, Pranshu Patel, Rinkal Jain, Chintan Bhatt, Steve Vanlanduit, Alessandro Bruno, & Pier Luigi Mazzeo. (2024). A Deep Learning Framework for Real-time Oil Spill Detection and Classification. *CEUR Workshop Proceedings*, *3923*, CEUR-WS.org/Vol-3923/Paper_1.pdf.**
 
 ## License
 
